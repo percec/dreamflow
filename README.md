@@ -1,4 +1,4 @@
-# This is Dreamflow.
+# This is Dreamflow, the first ever open-source Sleep App.
 Dreamflow is an IOS app made to improve sleep quality through a variety of exercises that lower heart rate, including mindfulness and breathing exercises
 
 Enjoy better sleep for completely free, only with Dreamflow. 
